@@ -10,3 +10,6 @@
 🎨: neeteshraj.github.io<br>
 
 
+![Metrics](https://github.com/neeteshraj/neeteshraj/blob/master/github-metrics.svg)
+
+
